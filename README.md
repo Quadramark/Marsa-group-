@@ -1,4 +1,10 @@
 بنقدم خدمات تسويقية لشركة شحن بحري. (مرسى  جروب ) للمساعدة في تقوية علامتها التجارية بين المنافسين وزيادة الوعي بالشركة .
+[quadramark project.pdf](https://github.com/user-attachments/files/22537970/quadramark.project.pdf)
+[names.pdf](https://github.com/user-attachments/files/22537971/names.pdf)
+[المهام-2.pdf](https://github.com/user-attachments/files/22537974/-2.pdf)
+
+
+
 <!--
 **Quadramark/QUADRAMARK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
