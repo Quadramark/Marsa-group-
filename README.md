@@ -7,75 +7,10 @@
 **Marsa Group Project** is an academic–professional marketing initiative developed to create and execute a complete **digital marketing strategy** for *Marsa Group*, a sea freight company providing logistics and maritime shipping services.  
 The project aims to enhance the company’s digital presence, improve brand perception, and attract potential clients through targeted paid campaigns and specialized content strategies.
 
-### **Project Objectives**
-- Increase the number of engaged and potential clients through digital platforms.  
-- Grow followers interested in logistics and maritime shipping services.  
-- Strengthen the brand image and credibility on social media.  
-- Implement precisely targeted paid advertising campaigns.  
-
-### **Target Audience**
-- Individuals interested in personal or commercial shipping.  
-- Import/export companies seeking reliable shipping partners.  
-- Freight agents and logistics offices across the Arab world and the Gulf region.  
-
-### **Proposed Marketing Channels**
-- **Facebook:** The main platform for reaching both commercial and individual audiences.  
-- **Instagram:** Supporting platform to showcase services visually and build brand identity.  
-
----
-
-## **Work Plan**
-### **Phase 1 – Research & Analysis**
-- SMART Objectives  
-- SWOT Analysis  
-- Competitor Analysis  
-- Marketing Mix (4Ps)  
-- Segmentation  
-- Value Proposition  
-- Account Analysis  
-
-### **Phase 2 – Strategy & Creative**
-- Buyer Personas  
-- Content Creation (Posts, Captions, Visuals)  
-- Media Buying Plan  
-- Social Media Calendar / Scheduling  
-- Ad Copywriting & Design Support  
-
-### **Phase 3 – Execution & Reporting**
-- Business Model Canvas (BMC)  
-- Website on Google Sites  
-- SEO Plan (Keywords Research + Suggested Topics)  
-- Media Buying & Implementation Results  
-- Analysis Report  
-- Recommendations  
-
----
-
-## **Roles & Responsibilities**
-
-### **Phase 1 – Research & Analysis**
-- **Audience Personas** — Primary: Omar Saad, Saif Mohamed  
-- **Competitor Analysis** — Primary: Saif Mohamed | Secondary: Kamel Magdi  
-- **SWOT Analysis** — Primary: Omar Saad  
-- **Marketing Mix (4Ps)** — Primary: Dareen Ali  
-- **Segmentation** — Primary: Karem Mohamed  
-- **Value Proposition** — Primary: Kamel Magdi  
-- **Account Analysis** — Primary: Kamel Magdi  
-
-### **Phase 2 – Strategy & Creative**
-- **Buyer Personas** — Primary: Omar Saad, Hossam Mohamed  
-- **Content Creation (Posts, Captions, Visuals)** — Primary: Omar Saad, Dareen Ali, Karem Mohamed, Hossam Mohamed  
-- **Media Buying Plan** — Primary: Saif Mohamed, Omar Saad  
-- **Social Media Calendar / Scheduling** — Primary: Dareen Ali | Secondary: Omar Saad, Karem Mohamed  
-- **Ad Copywriting & Design Support** — Primary: Omar Saad (Copywriting) | Primary: Saif Mohamed (Design)  
-
-### **Phase 3 – Execution & Reporting**
-- **Business Model Canvas (BMC)** — Primary: Hossam Mohamed  
-- **Website on Google Sites** — Primary: Omar Saad, Kamel Magdi  
-- **SEO Plan (Keywords Research + Suggested Topics)** — Primary: Omar Saad  
-- **Media Buying & Implementation Results** — Primary: Saif Mohamed | Secondary: Karem Mohamed  
-- **Analysis Report** — Primary: Dareen Ali | Secondary: Omar Saad  
-- **Recommendations** — Primary: Hossam Mohamed  
+**Project Objectives (Summary)**  
+- Increase engagement and attract potential clients online.  
+- Strengthen the company’s digital brand presence.  
+- Run precisely targeted advertising campaigns.  
 
 ---
 
@@ -89,6 +24,74 @@ The project aims to enhance the company’s digital presence, improve brand perc
 
 ---
 
+## **Work Plan**
+
+### **Phase 1 — Research & Analysis**
+- SMART Objectives *(Omar Saad)*  
+- SWOT Analysis *(Omar Saad)*  
+- Marketing Mix (4Ps) *(Dareen Ali)*  
+- Segmentation *(Karem Mohamed)*  
+- Value Proposition *(Kamel Magdi)*  
+- Account Analysis *(Kamel Magdi)*  
+- Competitive Analysis *(Saif Mohamed)*  
+
+---
+
+### **Phase 2 — Strategy & Creative**
+- Buyer Personas *(Omar Saad & Hossam Mohamed)*  
+- Content Creation (Copywriting & Design) *(Omar Saad, Dareen Ali, Karem Mohamed, Hossam Mohamed)*  
+- Media Buying Plan *(Saif Mohamed & Omar Saad)*  
+
+---
+
+### **Phase 3 — Execution & Reporting**
+- Business Model Canvas (BMC) *(Hossam Mohamed)*  
+- Website on Google Sites *(Omar Saad & Kamel Magdi)*  
+- SEO Plan (Keyword Research + Suggested Topics) *(Omar Saad & Saif Mohamed)*  
+- Media Buying & Implementation Results *(Saif Mohamed & Karem Mohamed)*  
+- Analysis Report *(Dareen Ali, supported by Omar Saad)*  
+- Recommendations *(Hossam Mohamed)*  
+
+---
+
+## **Roles & Responsibilities**
+
+**Omar Saad** *(Team Leader)*  
+**Primary:** SMART Objectives, SWOT Analysis, Buyer Personas, SEO Plan, Media Buying Plan, Website Design  
+**Secondary:** Content Creation, Analysis Support  
+
+---
+
+**Dareen Ali**  
+**Primary:** Marketing Mix (4Ps), Content Creation, Analysis Report  
+**Secondary:** Buyer Personas, Ad Copywriting  
+
+---
+
+**Kamel Magdi**  
+**Primary:** Value Proposition, Account Analysis, Website Design  
+**Secondary:** Media Buying Support  
+
+---
+
+**Hossam Mohamed**  
+**Primary:** Buyer Personas, Business Model Canvas (BMC), Recommendations  
+**Secondary:** Content Creation  
+
+---
+
+**Karem Mohamed**  
+**Primary:** Segmentation, Content Creation  
+**Secondary:** Media Buying Support  
+
+---
+
+**Saif Mohamed**  
+**Primary:** Competitive Analysis, Media Buying & Implementation Results, Ad Design  
+**Secondary:** Media Buying Plan, SEO Support  
+
+---
+
 ## **Instructor**
 **Eng. Safy El-Din Ahmed**
 
@@ -99,10 +102,11 @@ The project aims to enhance the company’s digital presence, improve brand perc
 
 ---
 
-## **Project Summary**
-This project represents the full integration of marketing theory with digital execution.  
-Through *Marsa Group Project*, the Quadramark team transformed strategic frameworks — including research, content creation, media buying, and SEO — into tangible digital deliverables that strengthen real-world marketing outcomes.  
+## **Summary**
+This project represents the integration of marketing theory with digital execution.  
+Through *Marsa Group Project*, the Quadramark team transformed research, content strategy, media buying, and SEO into tangible digital deliverables that enhance the company’s real-world marketing impact.  
 It stands as a model of applied learning and teamwork in the digital marketing field.
+
 
 
 
