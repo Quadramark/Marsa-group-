@@ -17,7 +17,7 @@ The project aims to enhance the company’s digital presence, improve brand perc
 ## **Team Members (Quadramark)**
 1. Omar Saad Ramadan Hawila  
 2. Dareen Ali Mohamed Samir  
-3. Kamel Magdi Kamel Gergos  
+3. Kamel Magdy Kamel Gerges  
 4. Hossam Mohamed Ahmed  
 5. Karem Mohamed Gaber Mohamed  
 6. Seif Osama Ahmed Mohamed  
